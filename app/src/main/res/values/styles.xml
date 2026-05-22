@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.NoTitleBar">
+        <item name="android:colorPrimary">#1a1a2e</item>
+        <item name="android:colorPrimaryDark">#0f0f1a</item>
+        <item name="android:colorAccent">#e94560</item>
+        <item name="android:windowBackground">#0a0a0a</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textColorSecondary">#aaaaaa</item>
+        <item name="android:listDivider">@null</item>
+    </style>
+</resources>
